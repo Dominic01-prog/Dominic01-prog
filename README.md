@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is a demo webpage created for Github Practice STAT 184
+
 <!--
 **Dominic01-prog/dominic01-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
